@@ -11,3 +11,8 @@ _top : abre el documento en todo el cuerpo de la pantalla..
 
 # FAVICON
 <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+
+# HTML SEMANTICO
+Usar las etiquetas correctas para describir cada parte de nuestra pagina web es muy importante, ya que esti facilitara la visualizacion y entendimiento del codigo incluso si es leido por otro programador extranjero
+
+Ayuda a que los navegadores clasifiquen y entiendan de mejor manera todas las parte del codigo html.
